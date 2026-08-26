@@ -1,96 +1,189 @@
-Olá!
-Meu nome  Wanderson dos Reis.
+# 🤖 Portfólio de Robótica — Wanderson dos Reis
 
-#Cursando:
+## 📌 Sobre o Projeto
 
-💻 Curso de Tecnologia da Informação
-Bem-vindo ao meu repositório de estudos e projetos desenvolvidos durante minha formação na área de Tecnologia da Informação (T.I.).
+Este projeto consiste em um **portfólio profissional de Robótica**, desenvolvido para apresentar conhecimentos, experiências, competências e serviços relacionados à área de **Tecnologia da Informação e Automação/Robótica**.
 
-Este projeto reúne conhecimentos adquiridos ao longo do curso, incluindo programação, desenvolvimento web, banco de dados, orientação a objetos, engenharia de software e outras áreas da tecnologia.
+O objetivo é criar uma apresentação profissional, moderna e responsiva, permitindo que empresas e clientes conheçam o perfil, as habilidades e os projetos desenvolvidos por **Wanderson dos Reis**.
 
-🎯 Sobre o Projeto
+---
 
-Este repositório foi criado com o objetivo de organizar e apresentar minha evolução acadêmica e profissional durante o curso de Tecnologia da Informação.
+## 👨‍💻 Autor
 
-Aqui estão reunidos exercícios, atividades, projetos acadêmicos e aplicações desenvolvidas utilizando diferentes tecnologias.
+**Wanderson dos Reis**
 
-🚀 Tecnologias e Conhecimentos
+* 💻 Área: Tecnologia da Informação
+* 🤖 Foco: Robótica e Tecnologia
+* 🌐 Projeto: Portfólio profissional
 
-#Durante minha formação, venho desenvolvendo conhecimentos em:
+---
 
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
-🐍 Python
-☕ Java
-🗄️ MySQL
-📊 Banco de Dados
-🧩 Programação Orientada a Objetos (POO)
-🔗 Git e GitHub
-📐 UML e Diagramas
-🖥️ Desenvolvimento Web
-🤖 Automação e Tecnologia
-🏗️ Engenharia de Software
-📚 Conteúdos Estudados
-Programação
+## 🛠️ Tecnologias Utilizadas
 
-#Desenvolvimento de algoritmos, estruturas de dados, lógica de programação e criação de aplicações.
+O projeto foi desenvolvido utilizando tecnologias web:
 
-#Desenvolvimento Web
+* **HTML5** — estrutura das páginas
+* **CSS3** — estilização, layout e responsividade
+* **JavaScript** — interações e funcionalidades
+* **Visual Studio Code** — ambiente de desenvolvimento
+* **Live Server** — execução do projeto em servidor local
 
-#Criação de páginas e sistemas utilizando HTML, CSS e JavaScript.
+---
 
-#Banco de Dados
+## 📂 Estrutura do Projeto
 
-#Modelagem de dados, criação de tabelas, relacionamentos, consultas SQL e gerenciamento de bancos de dados.
+```text
+Meu Portfólio Robotica/
+│
+├── 📁 img/
+│   └── Imagens utilizadas no portfólio
+│
+├── 📁 css/
+│   └── style.css
+│
+├── 📁 script/
+│   └── script.js
+│
+├── 📄 index.html
+│
+├── 📄 Meu Portifólio Robotica.code-workspace
+│
+└── 📄 README.md
+```
 
-#Programação Orientada a Objetos
+> A estrutura pode variar de acordo com a organização final dos arquivos do projeto.
 
-#Estudo dos principais conceitos de POO, como:
+---
 
-•Classes
-•Objetos
-•Encapsulamento
-•Herança
-•Polimorfismo
-•Abstração
-•Engenharia de Software
+## 🎯 Funcionalidades
 
-#Desenvolvimento de sistemas, levantamento de requisitos, documentação, modelagem e organização de projetos.
+O portfólio apresenta recursos como:
 
-🛠️ Projetos
+* ✅ Apresentação profissional
+* ✅ Seção inicial (Hero Section)
+* ✅ Apresentação de serviços
+* ✅ Cards com imagens e informações
+* ✅ Área de competências
+* ✅ Apresentação de projetos
+* ✅ Efeitos visuais e interações
+* ✅ Layout responsivo
+* ✅ Navegação entre seções
+* ✅ Utilização de imagens relacionadas à Robótica
+* ✅ Exibição das informações profissionais do autor
 
-Entre os projetos desenvolvidos durante o curso estão:
+---
 
-📚 Sistema de Biblioteca
-🌐 Portfólio Profissional
-🗄️ Projetos de Banco de Dados
-📊 Diagramas UML e DER
-🐍 Exercícios em Python
-☕ Projetos em Java
-⚙️ Projetos de Desenvolvimento Web
-📈 Objetivo Profissional
+## 🤖 Área de Robótica
 
-Meu objetivo é continuar aprimorando meus conhecimentos em Tecnologia da Informação, desenvolvendo soluções eficientes e adquirindo experiência prática em programação, desenvolvimento de sistemas e tecnologia.
+O projeto possui foco na apresentação de conhecimentos relacionados à **Robótica**, incluindo temas como:
 
-Busco constantemente aprender novas ferramentas, linguagens e tecnologias para evoluir profissionalmente.
+* Operação de robôs industriais
+* Automação
+* Tecnologia
+* Sistemas automatizados
+* Programação
+* Manutenção e operação de equipamentos
+* Desenvolvimento tecnológico
 
-👤 Sobre Mim
+---
 
-Wanderson dos Reis
+## 💻 Como Executar o Projeto
 
-🎓 Estudante de Tecnologia da Informação
+### 1. Clonar ou baixar o projeto
 
-📫 Contato
+Baixe o projeto para o computador.
 
-Caso queira conhecer meus projetos ou entrar em contato comigo:
+### 2. Abrir no Visual Studio Code
 
-Wanderson dos Reis
+Abra a pasta do projeto no **Visual Studio Code**.
 
-GitHub: @WANDERSON-DOS-REIS
-E-mail: wandersonreis1193@gmail.com
-⭐ Obrigado pela visita!
+Também é possível abrir o arquivo:
 
-Este repositório representa parte da minha jornada de aprendizado na área de Tecnologia da Informação.
+```text
+Meu Portifólio Robotica.code-workspace
+```
 
-Desenvolver, aprender e evoluir. 🚀
+### 3. Executar com Live Server
+
+Instale a extensão **Live Server** no Visual Studio Code.
+
+Depois:
+
+1. Abra o arquivo `index.html`;
+2. Clique com o botão direito;
+3. Selecione **Open with Live Server**.
+
+O projeto está configurado para utilizar a porta:
+
+```text
+5501
+```
+
+---
+
+## 🌐 Visualização Local
+
+Com o Live Server executando, o projeto poderá ser acessado pelo navegador através do servidor local configurado pelo VS Code.
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido buscando proporcionar uma boa experiência em diferentes dispositivos:
+
+* 🖥️ Computadores
+* 💻 Notebooks
+* 📱 Smartphones
+* 📲 Tablets
+
+---
+
+## 🎨 Objetivo Visual
+
+O design busca transmitir uma identidade relacionada à:
+
+**Tecnologia • Robótica • Inovação • Automação • Profissionalismo**
+
+A utilização de elementos visuais, imagens e efeitos de interação tem como objetivo tornar o portfólio mais moderno e atrativo.
+
+---
+
+## 📚 Finalidade Acadêmica
+
+Este projeto também pode ser utilizado como atividade acadêmica para demonstrar conhecimentos adquiridos durante o curso de **Tecnologia da Informação**, envolvendo desenvolvimento web, organização de projetos e apresentação profissional.
+
+---
+
+## 🚀 Melhorias Futuras
+
+Algumas funcionalidades que podem ser adicionadas futuramente:
+
+* [ ] Formulário de contato
+* [ ] Integração com WhatsApp
+* [ ] Links para redes profissionais
+* [ ] Mais projetos de Robótica
+* [ ] Animações avançadas
+* [ ] Modo claro/escuro
+* [ ] Página de currículo
+* [ ] Hospedagem online
+* [ ] Domínio próprio
+
+---
+
+## 📄 Licença
+
+Projeto desenvolvido para fins **acadêmicos e de apresentação profissional**.
+
+---
+
+## ⭐ Considerações Finais
+
+O **Portfólio de Robótica — Wanderson dos Reis** foi desenvolvido para reunir conhecimentos de Tecnologia da Informação, desenvolvimento web e Robótica em uma única apresentação profissional.
+
+O projeto demonstra a aplicação prática de **HTML, CSS e JavaScript**, além da organização de arquivos e utilização do **Visual Studio Code** para desenvolvimento.
+
+---
+
+### 🤖 Wanderson dos Reis
+
+**Tecnologia da Informação | Robótica | Tecnologia e Inovação**
