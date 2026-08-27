@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+<rect width="800" height="500" fill="#0b1014"/><g stroke="#63e6be" fill="none" stroke-width="8">
+<circle cx="400" cy="250" r="70"/><path d="M400 180V95M400 320v75M330 250H215M470 250h115"/>
+<path d="M215 250l-55-90M160 160l-70 10M585 250l55 90M640 340l75-10"/>
+</g><g fill="#63e6be"><circle cx="400" cy="95" r="13"/><circle cx="215" cy="250" r="13"/><circle cx="585" cy="250" r="13"/></g><text x="400" y="470" fill="#9ca8b5" font-family="Arial" font-size="22" text-anchor="middle">INDUSTRIAL ROBOTICS</text></svg>
